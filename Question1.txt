@@ -1,0 +1,9 @@
+tests-MacBook-Pro:practice gushuqin$ cd ..
+tests-MacBook-Pro:cisc3410 gushuqin$ cd homework6
+tests-MacBook-Pro:homework6 gushuqin$ javac ./ChildPackage/Child.java
+tests-MacBook-Pro:homework6 gushuqin$ javac ./ParentPackage/Parent.java
+tests-MacBook-Pro:homework6 gushuqin$ javac Main.java
+tests-MacBook-Pro:homework6 gushuqin$ java Main
+child is 1
+parent is 0
+

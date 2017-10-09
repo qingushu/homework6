@@ -1,0 +1,40 @@
+Question a:
+called public String call(int k) in Dog.java
+output: Woof, woof, woof!
+
+
+Question b:
+called public String toString() in Cat.java
+output: I'm a cat, go away!
+
+
+Question c:
+Error: compiler can’t find method call() in object class
+
+
+Question d:
+The java.lang.Object.toString() method is called because there is no toString() method in Pet class
+output: Pet@677327b6
+
+
+Question e:
+called public String call() in Dog.java
+output: woof!
+
+
+Question f:
+called public String toString(String b) in Cat.java
+output: come here, kitty?... Don't waste my time.
+
+
+Question g:
+Error: no suitable method found for call(int) in either Cat.java and Pet.java
+
+Question h:
+called public String feet() in Pet.java
+output: four
+
+Question i:
+Error, can’t find this method in Pet.java
+
+
